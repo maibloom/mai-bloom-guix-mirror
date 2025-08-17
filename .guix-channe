@@ -1,0 +1,5 @@
+; .guix-channel
+(channel
+ (version 0)
+ (name mai-bloom)
+ (branch "main"))
