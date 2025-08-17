@@ -3,7 +3,7 @@
 
 (define-public hello-world
   (package
-    (name "hello-world")
+    (name "hello-bloom")
     (version "1.0")
     (source (origin
               (method url-fetch)
